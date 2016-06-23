@@ -60,3 +60,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+ZombieFPS/Intermediate/
+ZombieFPS/Saved/
+ZombieFPS/Config/
+ZombieFPS/Content/
+ZombieFPS/Source/
+ZombieFPS/ZombieFPS.uproject
