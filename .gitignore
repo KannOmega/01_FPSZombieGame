@@ -63,6 +63,9 @@ DerivedDataCache/*
 ZombieFPS/Intermediate/
 ZombieFPS/Saved/
 ZombieFPS/Config/
-ZombieFPS/Content/
+ZombieFPS/Content/FirstPerson
+ZombieFPS/Content/FirstPersonCPP
+ZombieFPS/Content/Geometry
+ZombieFPS/Content/StarterContent
 ZombieFPS/Source/
 ZombieFPS/ZombieFPS.uproject
